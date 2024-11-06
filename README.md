@@ -21,5 +21,10 @@ The primary source of data used here is salesdata.csv and customerdata.csv
    - Which products are top sellers?
    - What is the total product of sales data?
    - What are the products on the peak sales?
-  
-   - ###
+
+    ### Data Analysis
+   This is where we include some basic lines of code or queries used during analysis.
+
+   ``` SQL
+   SELECT * FROM [LITA CAPSTONE SALES
+```
